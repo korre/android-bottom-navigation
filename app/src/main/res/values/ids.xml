@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="bottom_bar_first" type="id"/>
+    <item name="bottom_bar_second" type="id"/>
+    <item name="bottom_bar_third" type="id"/>
+    <item name="bottom_bar_forth" type="id"/>
+</resources>
