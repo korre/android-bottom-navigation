@@ -1,7 +1,7 @@
 # android-bottom-navigation
 This is just a simple, lightweight and title less bottom menu navigation for android. Example project is provided.
 
-![Example GIF](http://kmdev.se/android-bottom-navigation/example.gif)
+![Example GIF](http://www.happanero.se/wp-content/uploads/2017/11/gh-bottom-nav.gif)
 
 Add it to your layout xml file:
 
